@@ -1,5 +1,5 @@
 import requests
-
+import os
 TELEGRAM_TOKEN = "8203901193: AAGhC2Hm5GØF_Vj8PY590RCjpI
 VITP7p1kw"
 CHAT_ID = "6711054848"
